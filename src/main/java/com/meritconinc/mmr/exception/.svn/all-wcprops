@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception
+END
+DAOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/DAOException.java
+END
+SameOldPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/SameOldPasswordException.java
+END
+RecordNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/RecordNotFoundException.java
+END
+InvalidPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/InvalidPasswordException.java
+END
+UsernameAlreadyTakenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/UsernameAlreadyTakenException.java
+END
+CreditOverrunException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/CreditOverrunException.java
+END
+QtyGreaterThanFromLocationQtyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/QtyGreaterThanFromLocationQtyException.java
+END
+RepeatedPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/RepeatedPasswordException.java
+END
+updateProductInventoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/updateProductInventoryException.java
+END
+SelectedFromLocBatchInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/SelectedFromLocBatchInvalidException.java
+END
+MarkupAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/MarkupAlreadyExistsException.java
+END
+EmailAlreadyRegisteredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/EmailAlreadyRegisteredException.java
+END
+CardProcessingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/CardProcessingException.java
+END
+CustomerNameAlreadyTakenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/exception/CustomerNameAlreadyTakenException.java
+END

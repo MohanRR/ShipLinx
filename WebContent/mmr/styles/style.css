@@ -1,0 +1,90 @@
+.ac_results {
+	padding: 0px;
+	background-color: white;
+	/* overflow: hidden;
+	width: 350px;*/
+}
+
+.ac_results ul {
+	width: 170px;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	border: 1px solid #AFAFAF;
+}
+
+.ac_results li {
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	display: block;
+	/*color: #972800;*/
+	font-family: Arial, Helvetica, sans-serif;
+	/* 
+	if width will be 100% horizontal scrollbar will apear 
+	when scroll mode will be used
+	*/
+	/*width: 100%;*/
+	font-size: 10px;
+	/* 
+	it is very important, if line-height not setted or setted 
+	in relative units scroll will be broken in firefox
+	*/
+	line-height: 16px;
+	overflow: hidden;
+
+}
+
+.ac_loading {
+	background: white url('../mmr/images/indicator.gif') right center no-repeat;
+}
+
+.ac_odd {
+	color: #848484;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.ac_even {
+	color: #848484;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: #f4f4f4;
+}
+
+.ac_over {
+	background-color: #63709A;
+	color: white;
+}
+
+
+.input_text{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	padding-left: 3px;
+	padding-top: 2px; 
+	
+	width: 150px;
+	height: 20px;
+
+	color:#802900;
+	background: url(../images/tf_autocompleter.png) no-repeat;
+	
+	border: 1px solid #000066!important;
+	border-radius: 4px;
+	
+}
+.user_input_text{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	border:1px solid #FF7C08;
+	padding:2px;
+	width:210px;
+	color:#802900;
+	background:white url(../mmr/images/search.png) no-repeat 3px 2px;
+	padding-left:17px;
+}

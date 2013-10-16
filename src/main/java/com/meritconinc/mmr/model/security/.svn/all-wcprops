@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/repo/!svn/ver/6941/soluship/trunk/src/main/java/com/meritconinc/mmr/model/security
+END
+UserExtendedAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/security/UserExtendedAttributes.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/repo/!svn/ver/7256/soluship/trunk/src/main/java/com/meritconinc/mmr/model/security/User.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/security/Address.java
+END
+DefaultUserExtendedAttributesVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/security/DefaultUserExtendedAttributesVO.java
+END

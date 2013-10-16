@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web
+END
+MmrMessageTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/MmrMessageTag.java
+END
+RolesAccessorXMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/RolesAccessorXMLImpl.java
+END
+AuthenticationTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/AuthenticationTag.java
+END
+MmrTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/MmrTag.java
+END
+RolesAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/RolesAccessor.java
+END
+RolesAccessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/RolesAccessorFactory.java
+END
+MmrMessageParamTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/MmrMessageParamTag.java
+END
+MmrPagingTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/MmrPagingTag.java
+END
+MmrPropertyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/MmrPropertyTag.java
+END
+RolesAccessorDbImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/web/RolesAccessorDbImpl.java
+END

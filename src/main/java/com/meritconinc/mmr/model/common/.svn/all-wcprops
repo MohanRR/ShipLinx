@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common
+END
+ExceptionInfoVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/ExceptionInfoVO.java
+END
+RequestDetailsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/RequestDetailsVO.java
+END
+RoleVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/RoleVO.java
+END
+MenuItemVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/MenuItemVO.java
+END
+LocaleVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/LocaleVO.java
+END
+CountryVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/CountryVO.java
+END
+PropertyVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/PropertyVO.java
+END
+LoginStatusVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/LoginStatusVO.java
+END
+RequestTrackMetadataVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/RequestTrackMetadataVO.java
+END
+AuthorizedActionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/AuthorizedActionVO.java
+END
+RoleTagVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/RoleTagVO.java
+END
+RequestTrackParamVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/RequestTrackParamVO.java
+END
+KeyValueVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/model/common/KeyValueVO.java
+END

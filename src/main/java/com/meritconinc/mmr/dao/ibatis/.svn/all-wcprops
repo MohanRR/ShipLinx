@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/repo/!svn/ver/6941/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis
+END
+MenusDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/MenusDAOImpl.java
+END
+UserExtensionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/UserExtensionDAOImpl.java
+END
+QueryDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/QueryDAOImpl.java
+END
+RolesDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/RolesDAOImpl.java
+END
+PropertyDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/PropertyDAOImpl.java
+END
+UtilDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/UtilDAOImpl.java
+END
+RolesTagDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/RolesTagDAOImpl.java
+END
+MessageDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/MessageDAOImpl.java
+END
+ExceptionInfoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/ExceptionInfoDAOImpl.java
+END
+ActionsDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/ActionsDAOImpl.java
+END
+UserDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/repo/!svn/ver/7256/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/UserDAOImpl.java
+END
+LoginTrackingDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/LoginTrackingDAOImpl.java
+END
+RequestTrackingDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/repo/!svn/ver/7256/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/RequestTrackingDAOImpl.java
+END
+FeedbackDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/dao/ibatis/FeedbackDAOImpl.java
+END

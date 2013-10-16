@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi
+END
+SessionAwareAuthenticationProcessingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/SessionAwareAuthenticationProcessingFilter.java
+END
+ApplicationSecurityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/ApplicationSecurityListener.java
+END
+CustomLogoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/CustomLogoutHandler.java
+END
+MmrDaoAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/MmrDaoAuthenticationProvider.java
+END
+MmrTokenBasedRememberMeServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/MmrTokenBasedRememberMeServices.java
+END
+CustomUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/CustomUser.java
+END
+UserServiceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/acegi/UserServiceAdapter.java
+END

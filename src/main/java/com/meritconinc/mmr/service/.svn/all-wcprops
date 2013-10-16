@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service
+END
+SystemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/SystemService.java
+END
+FeedbackService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/FeedbackService.java
+END
+RequestTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/RequestTrackingService.java
+END
+PropertyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/PropertyService.java
+END
+QueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/QueryService.java
+END
+ExceptionInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/ExceptionInfoService.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/repo/!svn/ver/6446/soluship/trunk/src/main/java/com/meritconinc/mmr/service/UserService.java
+END

@@ -1,0 +1,396 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #333333;
+	margin: 0px;
+	padding: 0px;
+	background-attachment: fixed;
+/*	background-image: url(../images/bodyBG.png);  */
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+p, td {
+	font-size: 11px;
+	color: #333333;
+	text-align: justify;
+}
+
+.loginTitle{
+	border:0px dashed #0033CC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	color: #FF3300;
+	 margin: 0 auto;
+}
+
+.icons{
+	border:0px dashed #CC3300;
+	width:206px;
+	height:25px;
+	position:absolute;
+	left:600px;
+	margin-top:8px;
+	z-index:20;
+}
+
+#logo{
+	position:absolute;
+	top:0px;
+	right:-1px;
+	width:169px;
+	z-index:50;
+}
+
+#pageTitle{
+	font-size: 18px;
+	font-weight: bold;
+	color: #6666CC;
+	padding: 6px 4px 20px 6px;
+}
+
+#content{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	text-align: justify;
+	border:#00CC00 groove 0px;
+	vertical-align:top;
+	height: 400px;
+	min-height: 400px;	
+}
+#footer{
+	font-size: 9px;
+	color: #666666;
+	text-align: center;
+	padding: 25px 3px 3px 3px;
+	clear:both;
+}
+.requiredField{
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF6600;
+}
+.error {
+	font-size: 11px;
+	color: #ff1100;
+	font-weight: bold;
+	padding:4px;	
+}
+
+.message{
+	font-size: 11px;
+	color: #0099FF;
+	font-weight: bold;	
+}
+
+#loginWrapper { 
+ margin: 0 auto;
+ width: 301px;
+ margin-top:80px;
+}
+#loginTop {
+ width: 301px;
+ padding: 0px;
+ border: 0px solid #ccc;
+}
+#loginContent {
+	width: 301px;
+	color: #333;
+	border: 1px solid #bac0cb;
+	background-color: #F4F8FB;
+	padding:3px;
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0099FF;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0099FF;
+	text-decoration: none;
+}
+
+/* form test -------------------------------------------------------------------------------- */
+.custForm{
+	padding:2px; 
+	border:0px dashed #FF0000; 	
+	float:left;
+}
+
+label
+{
+	float: left;
+	text-align: left;
+	margin-right: 1.5em;
+	width:80px;
+	border:0px dashed #0033CC;
+}
+
+.button{
+	margin: 0px;
+	height:20px;
+	background-image:url(../images/buttonBG.png);
+	background-repeat: repeat-x;
+	background-position: center center;
+	border: 1px solid #1269A9;
+	font-weight: bold;
+	color: #114477;
+}
+
+select {
+	font-size: 10px;
+	color: #333333;
+	border: 1px solid #BBD5E8;
+}
+
+input{
+	font-size: 10px;
+	color: #333333;
+	border: 1px solid #BBD5E8}
+
+.inputNumber{
+	font-size: 10px;
+	color: #333333;
+	border: 1px solid #BBD5E8;
+	width: 49px;
+}
+
+fieldset{
+	border: 1px solid #bab1c4;
+	margin:3px;
+	padding:2px;
+	background-color:#F4F8FB;
+}
+textarea{
+	font-size: 10px;
+	color: #333333;
+	border: 1px solid #BBD5E8;
+	}
+
+legend{
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #ffffff;
+	border: 0px solid #bab1c4;
+	padding: 2px 6px;
+	color: #FF6633;
+	margin: -7px 0 0 2px;
+	position: fixed;	
+}
+
+.charges{
+	background-color: #CFE4F5;
+	padding: 3px;
+	margin-top: 3px;
+}
+
+/* form test -------------------------------------------------------------------------------- */
+
+
+
+/* STYLES RELATED TO TABLES*/
+.custTable {
+	border-collapse: collapse;
+	border: 1px solid #d3e3f2;
+	font: normal 11px verdana, arial, helvetica, sans-serif;
+	color: #333;
+	background-color: #f8fafb;
+}
+.custTable caption {
+	padding: 0 .4em .4em;
+	text-align: left;
+	font-size: 1em;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #333;
+	background: transparent;
+}
+.custTable td {
+	color: #4a4b4b;
+	border: 1px solid #d3e3f2;
+	padding: .3em;
+}
+.custTable th {
+	border: 1px solid #d3e3f2;
+	padding: 0.3em;
+	color: #000000;
+	background-color: #ecf5fc;
+}
+.custTable thead th, tfoot th {
+	border: 1px solid #d3e3f2;
+	text-align: left;
+	font-size: 1em;
+	font-weight: bold;
+	color: #000000;
+	background-color: #B6D0E4;
+}
+.custTable tbody td a {
+	background: transparent;
+	color: #4a4b4b;
+	text-decoration: none;
+	border-bottom: 1px dashed #d3e3f2;
+}
+.custTable tbody td a:hover {
+	background: transparent;
+	color: #4a4b4b;
+	border-bottom: 1px solid #d3e3f2;
+}
+.custTable tbody th a {
+	background: transparent;
+	color: #4a4b4b;
+	text-decoration: none;
+	font-weight:bold;
+	font-variant: small-caps;
+	border-bottom: 1px dashed #d3e3f2;
+}
+.custTable tbody th a:hover {
+	text-decoration: none;
+	background: transparent;
+	color: #4a4b4b;
+	font-variant: small-caps;
+	border-bottom: 1px solid #d3e3f2;
+}
+.custTable tbody th, tbody td {
+	vertical-align: top;
+	text-align: left;
+}
+.custTable tfoot td {
+	color: #4a4b4b;
+	border: 1px solid #d3e3f2;
+}
+.custTable .odd {
+	color: #4a4b4b;
+	background-color: #D3E3EF;
+}
+.custTable tbody tr:hover {
+	color: #4a4b4b;
+	background: #fff;
+}
+.custTable tbody tr:hover th, tbody tr.odd:hover th {
+	color: #4a4b4b;
+	background-color: #ffffff;
+}
+
+.custTable input, select {
+	color: #4a4b4b;
+}
+
+/*  ---------------- navigation drop down menu   */
+navigation {
+	background-image:url(../images/navBG_blue.png);
+	background-repeat:repeat-x;
+	height:26px;
+	margin-top:6px;
+	padding:2px 0px 0px 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	border: 1px solid #BBB;
+	}
+	
+.chromestyle{
+	width: 99.9%;
+	font-weight: bold;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+
+.chromestyle ul{
+	border: 1px solid #BBB;
+	width: 100%;
+	background: url(../images/navBG_blue.png) center center repeat-x; /*THEME CHANGE HERE*/
+	padding: 4px 0;
+	margin: 0;
+	text-align: left; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+	display: inline;
+}
+
+.chromestyle ul li a{
+	color: #494949;
+	padding: 4px 7px;
+	margin: 0;
+	text-decoration: none;
+	border-right: 1px solid #DADADA;
+}
+
+.chromestyle ul li a:hover{
+	background: url(images/chromebg-over.gif) center center repeat-x; /*THEME CHANGE HERE*/
+	color: #FFFFFF;
+	background-color: #FF6633;
+}
+
+.chromestyle ul li a[rel]:after{ /*HTML to indicate drop down link*/
+content: " v";
+/*content: " " url(../images/downimage.gif); /*uncomment this line to use an image instead*/
+}
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+	position:absolute;
+	top: 0;
+	border: 1px solid #BBB; /*THEME CHANGE HERE*/
+	border-bottom-width: 0;
+	font:normal 12px Verdana;
+	line-height:18px;
+	z-index:100;
+	background-color: #D7E9F7;
+	width: 200px;
+	visibility: hidden;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4); /*Add Shadow in IE. Remove if desired*/
+}
+
+
+.dropmenudiv a{
+	width: auto;
+	display: block;
+	text-indent: 3px;
+	border-bottom: 1px solid #BBB; /*THEME CHANGE HERE*/
+	padding: 2px 0px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+	width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+	background-color: #FF6633;
+	color: #FFFFFF;
+	}
+
+a.secondLevelDrop {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	padding-left: 4px;
+}
+a.secondLevelDrop:hover {
+	font-size: 10px;
+	color: #FFFFFF;
+}
